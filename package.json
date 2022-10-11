@@ -1,18 +1,18 @@
 {
   "name": "qw67-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "lotto432com✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"lotto432com",
-"เว็บออนไลน์หวย",
-"lottovip ios",
-"หวยผ่านเว็บ",
-"liveสลากกินแบ่ง"
-],
+  "version": "0.2.0",
+  "description": "lotto432com✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "lotto432com",
+    "เว็บออนไลน์หวย",
+    "lottovip ios",
+    "หวยผ่านเว็บ",
+    "liveสลากกินแบ่ง"
+  ],
   "repository": "https://github.com/setteebet/qw67-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
